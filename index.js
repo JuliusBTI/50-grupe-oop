@@ -1,4 +1,3 @@
-console.log('DEMO....');
-console.log('DEMO....');
-console.log('DEMO....');
-console.log('DEMO....');
+import { Dog } from "./js/Dog.js";
+
+const rexas 
